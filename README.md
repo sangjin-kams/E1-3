@@ -8,6 +8,6 @@
 
 2. 개발 환경
  * Language: Python
- * Python Version: Python 3.x
+ * Python Version: Python 3.12.10
  * Library: Python Standard Library
  * External Library: 사용하지 않음
